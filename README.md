@@ -1,0 +1,2 @@
+# VBA-Challenge
+This project focuses on the analysis of the stock market while utilizing VBA scripting to display the data.  This project includes two files, one called Test Data, used while developing the script to test the results faster, and the second called Stock Data, which was tested last for the final report for the project.  The final report will consist of yearly data from 2014 to 2016. 
